@@ -1,0 +1,33 @@
+
+.header {
+    padding: 150px 0 0 0;
+    text-align: center;
+}
+
+.header h3 {
+    font-size: 33px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.header h1 {
+    font-size: 64px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.header p {
+    font-size: 17px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.img {
+    display: flex;
+    padding: 0 100px 0 100px;
+    
+}
+
+.guide, .info {
+    float: left;
+}
